@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-radius: 20;
+    
+    
+}
+body{
+    background-color: azure;
+}
+.poke {background-color:blueviolet; max-width: 300px; min-height: 300px;
+    margin-left: 80vh;
+     margin-top: 3.5%; text-align: center;
+    padding: 8px; border-radius: 24px; border: 3px solid purple }
+ 
+    
+.titulo {font-size: 20x;text-align: center;
+    margin-top: 2%;}
+
+
+.lista {background-position: center top; list-style-type: none;
+    text-decoration-style:inherit;
+    margin-top: 3.5%; text-align: center; }
+
